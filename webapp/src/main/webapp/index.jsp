@@ -1,4 +1,4 @@
 
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Demo only 2</h2>
+<h1> DevOps Demo</h1>
+<h2> QA Automation tools + Devops Tools CI/CD pipelines </h2>
+<h2> Demo only 3</h2>
